@@ -1,0 +1,5 @@
+modelo,AUC,AUC_dp,F1,Acc_bal
+Maioria (baseline),0.5,0.0,0.8,0.5
+Logística só segmento,0.515,0.101,0.797,0.497
+Logística L2 (COBIT+segmento),0.575,0.138,0.765,0.513
+Árvore de decisão (prof. 3),0.473,0.114,0.727,0.496
